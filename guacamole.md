@@ -6,4 +6,6 @@
 * regular onion
 * suggar
 ## Intructions
-put in oven
+1. put in oven
+2. Mash all ingredients together
+
