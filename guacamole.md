@@ -1,7 +1,8 @@
 # Guacamole 
 ## Ingredients
-* avocade
-* lemon
+* avocado
+* lime
 * salt
 * regular onion
+* suggar
 ## Intructions
