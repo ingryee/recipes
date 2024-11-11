@@ -6,3 +6,4 @@
 * regular onion
 * suggar
 ## Intructions
+Mash all ingredients together
