@@ -3,4 +3,5 @@
 * avocade
 * lemon
 * salt
+* regular onion
 ## Intructions
